@@ -21,4 +21,4 @@ Move 2,0 BOTTOMRIGHT // for the first move
 Move 2,2 BOTTOMLEFT // for the second move
 ```
 
-Use the code to your disgretion.
+Use the code at your discretion.
